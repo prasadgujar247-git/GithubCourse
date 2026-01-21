@@ -1,0 +1,39 @@
+# ===== Eclipse =====
+.metadata/
+.recommenders/
+.settings/
+.project
+.classpath
+.loadpath
+.factorypath
+
+# ===== Java =====
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+# ===== Build folders =====
+bin/
+target/
+build/
+out/
+
+# ===== Logs =====
+*.log
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE (optional safety) =====
+.idea/
+*.iml
+.vscode/
+
+# ===== Temporary files =====
+*.tmp
+*.bak
+*.swp
